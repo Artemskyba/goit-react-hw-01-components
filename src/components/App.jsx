@@ -1,7 +1,7 @@
-import user from './data/user.json';
-import stats from './data/data.json';
-import friends from './data/friends.json';
-import transactions from './data/transactions.json'
+import user from '../data/user.json';
+import stats from '../data/data.json';
+import friends from '../data/friends.json';
+import transactions from '../data/transactions.json'
 
 import { GlobalStyle } from './global-style';
 import { Profile } from './profile/profile';
